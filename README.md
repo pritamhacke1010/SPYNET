@@ -7,10 +7,17 @@ A multifunctional HACKING BOTNET with GUI based Web Panel without port forwardin
 # Features 
  
 • Read all files 
+
 • Download Any Media 
-• List of Installed Applications
+
+• List of Installed Applications 
+
 • Read sms
+
 • Retrive Call Logs
+
 • Retrive Contacts
+
 • Send SMS
+
 • Gets all the Notifications
